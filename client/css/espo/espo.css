@@ -24,7 +24,8 @@ menu,
 nav,
 section,
 summary {
-  display: block;
+  color:#000000 !important
+  
 }
 audio,
 canvas,
