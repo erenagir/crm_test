@@ -152,7 +152,7 @@ return [
   'maxEmailAccountCount' => 2,
   'followCreatedEntities' => false,
   'b2cMode' => false,
-  'theme' => 'Dark',
+  'theme' => 'Espo',
   'themeParams' => (object) [
     'navbar' => 'side'
   ],
