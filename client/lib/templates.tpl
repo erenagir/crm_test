@@ -1353,11 +1353,11 @@ _delimiter_r30t24jlv5s
 res/templates/site/footer.tpl
 <p class="credit small">&copy; 2025
 <a
-    href="https://www.ZeroCRM.com"
-    title="Powered by ZeroCRM"
+    href="https://www.EspoCRM.com"
+    title="Powered by EspoCRM"
     rel="noopener" target="_blank"
     tabindex="-1"
->ZeroCRM</a></p>
+>EspoCRM</a></p>
 
 _delimiter_r30t24jlv5s
 res/templates/settings/fields/dashboard-layout/edit.tpl
@@ -6636,7 +6636,7 @@ res/templates/admin/system-requirements/index.tpl
         <div class="pull-right">
             <a
                 target="_blank"
-                href="https://docs.ZeroCRM.com/administration/server-configuration/"
+                href="https://docs.EspoCRM.com/administration/server-configuration/"
             ><strong>{{translate 'Configuration Instructions' scope='Admin'}}</strong></a>
         </div>
     </div>

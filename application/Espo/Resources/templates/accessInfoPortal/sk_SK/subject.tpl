@@ -1,1 +1,1 @@
-Info o používateľskom prístupe ZeroCRM
+Info o používateľskom prístupe EspoCRM

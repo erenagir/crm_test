@@ -1,1 +1,1 @@
-ZeroCRM vartotojo prieigos informacija
+EspoCRM vartotojo prieigos informacija

@@ -1,1 +1,1 @@
-<p class="credit small">&copy; 2025 <a href="https://www.ZeroCRM.com">ZeroCRM</a></p>
+<p class="credit small">&copy; 2025 <a href="https://www.EspoCRM.com">EspoCRM</a></p>

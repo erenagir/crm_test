@@ -200,7 +200,7 @@
         },
         "outboundEmailFromName": {
             "type": "varchar",
-            "default": "ZeroCRM"
+            "default": "EspoCRM"
         },
         "outboundEmailFromAddress": {
             "type": "varchar",

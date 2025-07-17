@@ -1,6 +1,6 @@
 {
   "labels": {
-    "Main page title": "Velkommen til ZeroCRM",
+    "Main page title": "Velkommen til EspoCRM",
     "Start page title": "Lisensavtale",
     "Step1 page title": "Lisensavtale",
     "License Agreement": "Lisensavtale",
@@ -11,16 +11,16 @@
     "Step5 page title": "SMTP-innstillinger for utgående epost",
     "Errors page title": "Feilmeldinger",
     "Finish page title": "Installasjonen er fullført",
-    "Congratulation! Welcome to ZeroCRM": "Gratulerer! ZeroCRM har blitt installert uten problemer.",
+    "Congratulation! Welcome to EspoCRM": "Gratulerer! EspoCRM har blitt installert uten problemer.",
     "More Information": "Besøk vår {BLOG} eller følg oss på {TWITTER} for mer informasjon.<br><br>Hvis du har forslag eller innspill kan du besøke vårt {FORUM}.",
-    "share": "Hvis du liker ZeroCRM oppfordrer vi deg til å fortelle andre om applikasjonen.",
+    "share": "Hvis du liker EspoCRM oppfordrer vi deg til å fortelle andre om applikasjonen.",
     "blog": "blogg",
     "Installation Guide": "Installasjonsveiledning",
     "Locale": "Språk og nasjonalitet",
     "Outbound Email Configuration": "Innstillinger for utgående epost",
     "Back": "Tilbake",
     "Next": "Neste",
-    "Go to ZeroCRM": "Gå til ZeroCRM",
+    "Go to EspoCRM": "Gå til EspoCRM",
     "Re-check": "Sjekk på nytt",
     "Version": "Versjon",
     "Test settings": "Test tilkobling",
@@ -40,7 +40,7 @@
     "Fail": "Feil",
     "is recommended": "er anbefalt",
     "extension is missing": "utvidelse mangler",
-    "headerTitle": "ZeroCRM Installasjon"
+    "headerTitle": "EspoCRM Installasjon"
   },
   "fields": {
     "Choose your language": "Velg språk",
@@ -76,8 +76,8 @@
     "1049": "Ukjent database",
     "2005": "Ukjent MySQL-tjener",
     "Some errors occurred!": "Det oppstod noen feil!",
-    "phpVersion": "Din PHP-versjon er ikke støtte av ZeroCRM, Vennligst oppgrader til {minVersion} eller nyere.",
-    "requiredMysqlVersion": "Din MySQL-versjon er ikke støttet av ZeroCRM. Vennligst oppgrader til {minVersion} eller nyere.",
+    "phpVersion": "Din PHP-versjon er ikke støtte av EspoCRM, Vennligst oppgrader til {minVersion} eller nyere.",
+    "requiredMysqlVersion": "Din MySQL-versjon er ikke støttet av EspoCRM. Vennligst oppgrader til {minVersion} eller nyere.",
     "The PHP extension was not found...": "PHP-feil: Utvidelsen <b>{extName}</b> ble ikke funnet.",
     "All Settings correct": "Alle innstillingene er riktig",
     "Failed to connect to database": "Klarte ikke å koble til databasen",
@@ -98,8 +98,8 @@
     "Thousand Separator and Decimal Mark equal": "Tusentallsdeler og desimaltegn kan ikke være det samme",
     "extension": "{0} utvidelser mangler",
     "option": "Anbefalt verdi er {0}",
-    "mysqlSettingError": "ZeroCRM krever at MySQL-innstillingen \"{NAME}\" endres til {VALUE}",
-    "requiredMariadbVersion": "Din MariaDB-versjon er ikke støttet av ZeroCRM. Vennligst oppgrader til {minVersion} eller nyere."
+    "mysqlSettingError": "EspoCRM krever at MySQL-innstillingen \"{NAME}\" endres til {VALUE}",
+    "requiredMariadbVersion": "Din MariaDB-versjon er ikke støttet av EspoCRM. Vennligst oppgrader til {minVersion} eller nyere."
   },
   "systemRequirements": {
     "requiredPhpVersion": "PHP-Versjon",

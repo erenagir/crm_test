@@ -5,7 +5,7 @@
                 <div class="panel-body">
                     <div class="likes">
                         <p>
-                            {$langs['labels']['Congratulation! Welcome to ZeroCRM']}
+                            {$langs['labels']['Congratulation! Welcome to EspoCRM']}
                         </p>
                     </div>
 
@@ -17,7 +17,7 @@
                         </pre>
 
                         <p>
-                            {assign var="link" value="<a target=\"_blank\" href=\"https://www.ZeroCRM.com/documentation/administration/server-configuration/#user-content-setup-a-crontab\">{$langs['labels']['Setup instructions']}</a>"}
+                            {assign var="link" value="<a target=\"_blank\" href=\"https://www.EspoCRM.com/documentation/administration/server-configuration/#user-content-setup-a-crontab\">{$langs['labels']['Setup instructions']}</a>"}
 
                             {assign var="message" value="{$langs['labels']['Crontab setup instructions']|replace:'{SETUP_INSTRUCTIONS}':$link}"}
                             {$message}
@@ -33,7 +33,7 @@
 </div>
 
 <footer class="modal-footer">
-    <button class="btn btn-primary" type="button" id="start">{$langs['labels']['Go to ZeroCRM']}</button>
+    <button class="btn btn-primary" type="button" id="start">{$langs['labels']['Go to EspoCRM']}</button>
 </footer>
 <script>
     {literal}

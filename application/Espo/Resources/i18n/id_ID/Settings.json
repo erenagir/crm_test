@@ -32,7 +32,7 @@
     "globalSearchEntityList": "Daftar Pencarian Global Entity",
     "authenticationMethod": "Metode otentikasi",
     "ldapAccountDomainName": "Nama akun Domain",
-    "ldapCreateEspoUser": "Buat Pengguna di ZeroCRM",
+    "ldapCreateEspoUser": "Buat Pengguna di EspoCRM",
     "ldapUserLoginFilter": "Filter Login Pengguna",
     "ldapAccountDomainNameShort": "Akun Domain Name Pendek",
     "ldapOptReferrals": "opt Rujukan",

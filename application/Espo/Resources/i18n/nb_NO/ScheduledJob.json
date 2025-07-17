@@ -20,9 +20,9 @@
       "SendEmailNotifications": "Send epostvarsler"
     },
     "cronSetup": {
-      "linux": "Merk: Legg denne linjen til crontab-filen som kjører ZeroCRMs planlagte oppgaver:",
-      "mac": "Merk: Legg denne linjen til crontab-filen som kjører ZeroCRMs planlagte oppgaver:",
-      "windows": "Merk: Opprett en batch-fil med følgende kommandoer for å kjøre ZeroCRMs planlagte oppgaver via Windows Scheduled Tasks:",
+      "linux": "Merk: Legg denne linjen til crontab-filen som kjører EspoCRMs planlagte oppgaver:",
+      "mac": "Merk: Legg denne linjen til crontab-filen som kjører EspoCRMs planlagte oppgaver:",
+      "windows": "Merk: Opprett en batch-fil med følgende kommandoer for å kjøre EspoCRMs planlagte oppgaver via Windows Scheduled Tasks:",
       "default": "Merk: Legg denne kommandoen til Cron Job (planlagte oppgaver):"
     },
     "status": {

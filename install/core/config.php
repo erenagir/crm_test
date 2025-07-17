@@ -1,10 +1,10 @@
 <?php
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -24,7 +24,7 @@
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 return [
@@ -93,7 +93,7 @@ sudo service apache2 restart',
         deny all;
     }
 }',
-    'APACHE_LINK' => 'https://www.ZeroCRM.com/documentation/administration/apache-server-configuration/',
-    'NGINX_LINK' => 'https://www.ZeroCRM.com/documentation/administration/nginx-server-configuration/',
+    'APACHE_LINK' => 'https://www.EspoCRM.com/documentation/administration/apache-server-configuration/',
+    'NGINX_LINK' => 'https://www.EspoCRM.com/documentation/administration/nginx-server-configuration/',
     ],
 ];

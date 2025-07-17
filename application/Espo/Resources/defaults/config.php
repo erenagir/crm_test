@@ -1,10 +1,10 @@
 <?php
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -24,7 +24,7 @@
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 return [
@@ -53,7 +53,7 @@ return [
     'recordsPerPageSmall' => 5,
     'recordsPerPageSelect' => 10,
     'recordsPerPageKanban' => 5,
-    'applicationName' => 'ZeroCRM',
+    'applicationName' => 'EspoCRM',
     'version' => '9.1.7',
     'timeZone' => 'UTC',
     'dateFormat' => 'DD.MM.YYYY',
@@ -68,7 +68,7 @@ return [
     'currencyRates' => [],
     'currencyNoJoinMode' => false,
     'outboundEmailIsShared' => true,
-    'outboundEmailFromName' => 'ZeroCRM',
+    'outboundEmailFromName' => 'EspoCRM',
     'outboundEmailFromAddress' => '',
     'smtpServer' => null,
     'smtpPort' => 465,

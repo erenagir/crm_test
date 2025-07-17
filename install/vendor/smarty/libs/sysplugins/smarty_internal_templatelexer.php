@@ -312,7 +312,7 @@ class Smarty_Internal_Templatelexer
     }
     function yy_r1_13($yy_subpatterns)
     {
-  if ($this->smarty->auto_literal && ($this->mbstring_overload ? (mb_strpos(" \n\t\r",mb_substr($this->value,$this->ldel_length,1,'latin1'),0,'latin1') !== false) : ($this->getStrpos($this->value, $this->ldel_length, 1) /*ZeroCRM: fix a warning for PHP 7*/ !== false))) {
+  if ($this->smarty->auto_literal && ($this->mbstring_overload ? (mb_strpos(" \n\t\r",mb_substr($this->value,$this->ldel_length,1,'latin1'),0,'latin1') !== false) : ($this->getStrpos($this->value, $this->ldel_length, 1) /*EspoCRM: fix a warning for PHP 7*/ !== false))) {
     $this->token = Smarty_Internal_Templateparser::TP_TEXT;
   } else {
      $this->token = Smarty_Internal_Templateparser::TP_LDEL;
@@ -1117,7 +1117,7 @@ class Smarty_Internal_Templatelexer
     function yy_r4_6($yy_subpatterns)
     {
 
-  if ($this->smarty->auto_literal && ($this->mbstring_overload ? (mb_strpos(" \n\t\r",mb_substr($this->value,$this->ldel_length,1,'latin1'),0,'latin1') !== false) : ($this->getStrpos($this->value, $this->ldel_length, 1) /*ZeroCRM: fix a warning for PHP 7*/ !== false))) {
+  if ($this->smarty->auto_literal && ($this->mbstring_overload ? (mb_strpos(" \n\t\r",mb_substr($this->value,$this->ldel_length,1,'latin1'),0,'latin1') !== false) : ($this->getStrpos($this->value, $this->ldel_length, 1) /*EspoCRM: fix a warning for PHP 7*/ !== false))) {
     $this->token = Smarty_Internal_Templateparser::TP_TEXT;
   } else {
      $this->token = Smarty_Internal_Templateparser::TP_LDEL;
@@ -1393,7 +1393,7 @@ class Smarty_Internal_Templatelexer
     }
 
 
-    //ZeroCRM: fix a warning for PHP 7
+    //EspoCRM: fix a warning for PHP 7
     protected function getStrpos($value, $ldelLength, $offset = 0)
     {
         $substrRes = substr($value, $ldelLength, $offset);

@@ -8,11 +8,11 @@ define("modules/crm/views/meeting/fields/attendees", ["exports", "views/fields/l
   _linkMultipleWithRole = _interopRequireDefault(_linkMultipleWithRole);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -32,7 +32,7 @@ define("modules/crm/views/meeting/fields/attendees", ["exports", "views/fields/l
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _linkMultipleWithRole.default {
@@ -53,11 +53,11 @@ define("modules/crm/views/calendar/fields/teams", ["exports", "views/fields/link
   _linkMultiple = _interopRequireDefault(_linkMultiple);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -77,7 +77,7 @@ define("modules/crm/views/calendar/fields/teams", ["exports", "views/fields/link
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class CalendarSharedViewTeamsFieldView extends _linkMultiple.default {
@@ -101,11 +101,11 @@ define("modules/crm/knowledge-base-helper", ["exports", "ajax"], function (_expo
   _ajax = _interopRequireDefault(_ajax);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -125,7 +125,7 @@ define("modules/crm/knowledge-base-helper", ["exports", "ajax"], function (_expo
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   /**
@@ -172,11 +172,11 @@ define("modules/crm/views/task/record/list", ["exports", "views/record/list"], f
   _list = _interopRequireDefault(_list);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -196,7 +196,7 @@ define("modules/crm/views/task/record/list", ["exports", "views/record/list"], f
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _list.default {
@@ -235,11 +235,11 @@ define("modules/crm/views/record/panels/tasks", ["exports", "views/record/panels
   _createRelated = _interopRequireDefault(_createRelated);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -259,7 +259,7 @@ define("modules/crm/views/record/panels/tasks", ["exports", "views/record/panels
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class TasksRelationshipPanelView extends _relationship.default {
@@ -401,11 +401,11 @@ define("modules/crm/views/record/panels/activities", ["exports", "views/record/p
   _recordModal = _interopRequireDefault(_recordModal);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -425,7 +425,7 @@ define("modules/crm/views/record/panels/activities", ["exports", "views/record/p
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class ActivitiesPanelView extends _relationship.default {
@@ -928,11 +928,11 @@ define("modules/crm/views/meeting/detail", ["exports", "views/detail", "moment"]
   _moment = _interopRequireDefault(_moment);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -952,7 +952,7 @@ define("modules/crm/views/meeting/detail", ["exports", "views/detail", "moment"]
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class MeetingDetailView extends _detail.default {
@@ -1151,11 +1151,11 @@ define("modules/crm/views/meeting/record/list", ["exports", "views/record/list"]
   _list = _interopRequireDefault(_list);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -1175,7 +1175,7 @@ define("modules/crm/views/meeting/record/list", ["exports", "views/record/list"]
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _list.default {
@@ -1266,11 +1266,11 @@ define("modules/crm/views/meeting/record/list", ["exports", "views/record/list"]
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -1290,7 +1290,7 @@ define("modules/crm/views/meeting/record/list", ["exports", "views/record/list"]
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/mass-email/record/edit', ['views/record/edit'], function (Dep) {
@@ -1350,11 +1350,11 @@ define("modules/crm/views/mass-email/modals/send-test", ["exports", "views/modal
   _linkMultiple = _interopRequireDefault(_linkMultiple);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -1374,7 +1374,7 @@ define("modules/crm/views/mass-email/modals/send-test", ["exports", "views/modal
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class MassEmailSendTestModalView extends _modal.default {
@@ -1520,11 +1520,11 @@ define("modules/crm/views/mass-email/modals/send-test", ["exports", "views/modal
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -1544,7 +1544,7 @@ define("modules/crm/views/mass-email/modals/send-test", ["exports", "views/modal
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/dashlets/options/chart', ['views/dashlets/options/base'], function (Dep) {
@@ -1569,11 +1569,11 @@ define('crm:views/dashlets/options/chart', ['views/dashlets/options/base'], func
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -1593,7 +1593,7 @@ define('crm:views/dashlets/options/chart', ['views/dashlets/options/base'], func
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/contact/record/detail', ['views/record/detail'], function (Dep) {
@@ -1611,11 +1611,11 @@ define("modules/crm/views/call/record/list", ["exports", "views/record/list"], f
   _list = _interopRequireDefault(_list);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -1635,7 +1635,7 @@ define("modules/crm/views/call/record/list", ["exports", "views/record/list"], f
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _list.default {
@@ -1735,11 +1735,11 @@ define("modules/crm/views/call/fields/contacts", ["exports", "modules/crm/views/
   _attendees = _interopRequireDefault(_attendees);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -1759,7 +1759,7 @@ define("modules/crm/views/call/fields/contacts", ["exports", "modules/crm/views/
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _attendees.default {
@@ -1800,11 +1800,11 @@ define("modules/crm/views/calendar/modals/edit-view", ["exports", "views/modal",
   _teams = _interopRequireDefault(_teams);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -1824,7 +1824,7 @@ define("modules/crm/views/calendar/modals/edit-view", ["exports", "views/modal",
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class CalendarEditViewModal extends _modal.default {
@@ -2040,11 +2040,11 @@ define("modules/crm/views/calendar/fields/users", ["exports", "views/fields/link
   _linkMultiple = _interopRequireDefault(_linkMultiple);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -2064,7 +2064,7 @@ define("modules/crm/views/calendar/fields/users", ["exports", "views/fields/link
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class CalendarUsersFieldView extends _linkMultiple.default {
@@ -2092,11 +2092,11 @@ define("modules/crm/acl/meeting", ["exports", "acl"], function (_exports, _acl) 
   _acl = _interopRequireDefault(_acl);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -2116,7 +2116,7 @@ define("modules/crm/acl/meeting", ["exports", "acl"], function (_exports, _acl) 
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class MeetingAcl extends _acl.default {
@@ -2155,11 +2155,11 @@ define("modules/crm/acl/meeting", ["exports", "acl"], function (_exports, _acl) 
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -2179,7 +2179,7 @@ define("modules/crm/acl/meeting", ["exports", "acl"], function (_exports, _acl) 
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/user/record/panels/tasks', ['crm:views/record/panels/tasks'], function (Dep) {
@@ -2228,11 +2228,11 @@ define("modules/crm/views/task/list", ["exports", "views/list"], function (_expo
   _list = _interopRequireDefault(_list);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -2252,7 +2252,7 @@ define("modules/crm/views/task/list", ["exports", "views/list"], function (_expo
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _list.default {}
@@ -2270,11 +2270,11 @@ define("modules/crm/views/task/detail", ["exports", "views/detail"], function (_
   _detail = _interopRequireDefault(_detail);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -2294,7 +2294,7 @@ define("modules/crm/views/task/detail", ["exports", "views/detail"], function (_
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _detail.default {}
@@ -2302,11 +2302,11 @@ define("modules/crm/views/task/detail", ["exports", "views/detail"], function (_
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -2326,7 +2326,7 @@ define("modules/crm/views/task/detail", ["exports", "views/detail"], function (_
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/task/record/list-expanded',
@@ -2343,11 +2343,11 @@ define('crm:views/task/record/list-expanded',
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -2367,7 +2367,7 @@ define('crm:views/task/record/list-expanded',
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/task/record/detail', ['views/record/detail'], function (Dep) {
@@ -2416,11 +2416,11 @@ define('crm:views/task/record/detail', ['views/record/detail'], function (Dep) {
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -2440,7 +2440,7 @@ define('crm:views/task/record/detail', ['views/record/detail'], function (Dep) {
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/task/record/row-actions/default', ['views/record/row-actions/view-and-edit'], function (Dep) {
@@ -2479,11 +2479,11 @@ define('crm:views/task/record/row-actions/default', ['views/record/row-actions/v
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -2503,7 +2503,7 @@ define('crm:views/task/record/row-actions/default', ['views/record/row-actions/v
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/task/record/row-actions/dashlet', ['views/record/row-actions/view-and-edit'], function (Dep) {
@@ -2542,11 +2542,11 @@ define('crm:views/task/record/row-actions/dashlet', ['views/record/row-actions/v
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -2566,7 +2566,7 @@ define('crm:views/task/record/row-actions/dashlet', ['views/record/row-actions/v
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/task/modals/detail', ['views/modals/detail'], function (Dep) {
@@ -2584,11 +2584,11 @@ define("modules/crm/views/task/fields/tasks", ["exports", "views/fields/link-mul
   _linkMultipleWithStatus = _interopRequireDefault(_linkMultipleWithStatus);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -2608,7 +2608,7 @@ define("modules/crm/views/task/fields/tasks", ["exports", "views/fields/link-mul
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _linkMultipleWithStatus.default {
@@ -2621,11 +2621,11 @@ define("modules/crm/views/task/fields/tasks", ["exports", "views/fields/link-mul
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -2645,7 +2645,7 @@ define("modules/crm/views/task/fields/tasks", ["exports", "views/fields/link-mul
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/task/fields/priority-for-dashlet', ['views/fields/enum'], function (Dep) {
@@ -2675,11 +2675,11 @@ define("modules/crm/views/task/fields/is-overdue", ["exports", "views/fields/bas
   _moment = _interopRequireDefault(_moment);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -2699,7 +2699,7 @@ define("modules/crm/views/task/fields/is-overdue", ["exports", "views/fields/bas
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   // noinspection JSUnusedGlobalSymbols
@@ -2764,11 +2764,11 @@ define("modules/crm/views/task/fields/date-end", ["exports", "views/fields/datet
   _moment = _interopRequireDefault(_moment);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -2788,7 +2788,7 @@ define("modules/crm/views/task/fields/date-end", ["exports", "views/fields/datet
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class TaskDateEndFieldView extends _datetimeOptional.default {
@@ -2864,11 +2864,11 @@ define("modules/crm/views/task/fields/date-end", ["exports", "views/fields/datet
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -2888,7 +2888,7 @@ define("modules/crm/views/task/fields/date-end", ["exports", "views/fields/datet
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/target-list/record/detail', ['views/record/detail'], function (Dep) {
@@ -2910,11 +2910,11 @@ define('crm:views/target-list/record/detail', ['views/record/detail'], function 
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -2934,7 +2934,7 @@ define('crm:views/target-list/record/detail', ['views/record/detail'], function 
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/target-list/record/row-actions/opted-out', ['views/record/row-actions/default'], function (Dep) {
@@ -2957,11 +2957,11 @@ define('crm:views/target-list/record/row-actions/opted-out', ['views/record/row-
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -2981,7 +2981,7 @@ define('crm:views/target-list/record/row-actions/opted-out', ['views/record/row-
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/target-list/record/row-actions/default', ['views/record/row-actions/relationship'], function (Dep) {
@@ -3019,11 +3019,11 @@ define('crm:views/target-list/record/row-actions/default', ['views/record/row-ac
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -3043,7 +3043,7 @@ define('crm:views/target-list/record/row-actions/default', ['views/record/row-ac
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/target-list/record/panels/relationship', ['views/record/panels/relationship'], function (Dep) {
@@ -3089,11 +3089,11 @@ define('crm:views/target-list/record/panels/relationship', ['views/record/panels
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -3113,7 +3113,7 @@ define('crm:views/target-list/record/panels/relationship', ['views/record/panels
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/target-list/record/panels/opted-out',  ['views/record/panels/relationship', 'multi-collection'],
@@ -3240,11 +3240,11 @@ function (Dep, MultiCollection) {
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -3264,7 +3264,7 @@ function (Dep, MultiCollection) {
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/target-list/fields/target-status', ['views/fields/base'], function (Dep) {
@@ -3282,11 +3282,11 @@ define('crm:views/target-list/fields/target-status', ['views/fields/base'], func
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -3306,7 +3306,7 @@ define('crm:views/target-list/fields/target-status', ['views/fields/base'], func
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/target-list/fields/including-action-list', ['views/fields/multi-enum'], function (Dep) {
@@ -3334,11 +3334,11 @@ define("modules/crm/views/stream/notes/event-confirmation", ["exports", "views/s
   _note = _interopRequireDefault(_note);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -3358,7 +3358,7 @@ define("modules/crm/views/stream/notes/event-confirmation", ["exports", "views/s
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class EventConfirmationNoteView extends _note.default {
@@ -3428,11 +3428,11 @@ define("modules/crm/views/stream/notes/event-confirmation", ["exports", "views/s
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -3452,7 +3452,7 @@ define("modules/crm/views/stream/notes/event-confirmation", ["exports", "views/s
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/record/list-activities-dashlet',
@@ -3476,11 +3476,11 @@ function (Dep, MeetingList, TaskList) {
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -3500,7 +3500,7 @@ function (Dep, MeetingList, TaskList) {
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/record/row-actions/tasks', ['views/record/row-actions/relationship-no-unlink'], function (Dep) {
@@ -3558,11 +3558,11 @@ define('crm:views/record/row-actions/tasks', ['views/record/row-actions/relation
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -3582,7 +3582,7 @@ define('crm:views/record/row-actions/tasks', ['views/record/row-actions/relation
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/record/row-actions/relationship-target', ['views/record/row-actions/relationship-unlink-only'], function (Dep) {
@@ -3620,11 +3620,11 @@ define('crm:views/record/row-actions/relationship-target', ['views/record/row-ac
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -3644,7 +3644,7 @@ define('crm:views/record/row-actions/relationship-target', ['views/record/row-ac
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/record/row-actions/history', ['views/record/row-actions/relationship'], function (Dep) {
@@ -3705,11 +3705,11 @@ define('crm:views/record/row-actions/history', ['views/record/row-actions/relati
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -3729,7 +3729,7 @@ define('crm:views/record/row-actions/history', ['views/record/row-actions/relati
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/record/row-actions/activities', ['views/record/row-actions/relationship'], function (Dep) {
@@ -3796,11 +3796,11 @@ define('crm:views/record/row-actions/activities', ['views/record/row-actions/rel
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -3820,7 +3820,7 @@ define('crm:views/record/row-actions/activities', ['views/record/row-actions/rel
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/record/row-actions/activities-dashlet', ['views/record/row-actions/view-and-edit'], function (Dep) {
@@ -3889,11 +3889,11 @@ define('crm:views/record/row-actions/activities-dashlet', ['views/record/row-act
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -3913,7 +3913,7 @@ define('crm:views/record/row-actions/activities-dashlet', ['views/record/row-act
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/record/panels/target-lists', ['views/record/panels/relationship'], function (Dep) {
@@ -3966,11 +3966,11 @@ define("modules/crm/views/record/panels/history", ["exports", "crm:views/record/
   _recordModal = _interopRequireDefault(_recordModal);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -3990,7 +3990,7 @@ define("modules/crm/views/record/panels/history", ["exports", "crm:views/record/
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class HistoryPanelView extends _activities.default {
@@ -4130,11 +4130,11 @@ define("modules/crm/views/record/panels/history", ["exports", "crm:views/record/
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -4154,7 +4154,7 @@ define("modules/crm/views/record/panels/history", ["exports", "crm:views/record/
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/opportunity/detail', ['views/detail'], function (Dep) {
@@ -4164,11 +4164,11 @@ define('crm:views/opportunity/detail', ['views/detail'], function (Dep) {
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -4188,7 +4188,7 @@ define('crm:views/opportunity/detail', ['views/detail'], function (Dep) {
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/opportunity/record/list', ['views/record/list'], function (Dep) {
@@ -4199,11 +4199,11 @@ define('crm:views/opportunity/record/list', ['views/record/list'], function (Dep
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -4223,7 +4223,7 @@ define('crm:views/opportunity/record/list', ['views/record/list'], function (Dep
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/opportunity/record/kanban', ['views/record/kanban'], function (Dep) {
@@ -4254,11 +4254,11 @@ define("modules/crm/views/opportunity/record/edit", ["exports", "views/record/ed
   _edit = _interopRequireDefault(_edit);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -4278,7 +4278,7 @@ define("modules/crm/views/opportunity/record/edit", ["exports", "views/record/ed
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class OpportunityEditRecordView extends _edit.default {}
@@ -4295,11 +4295,11 @@ define("modules/crm/views/opportunity/record/edit-small", ["exports", "views/rec
   _editSmall = _interopRequireDefault(_editSmall);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -4319,7 +4319,7 @@ define("modules/crm/views/opportunity/record/edit-small", ["exports", "views/rec
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class OpportunityEditSmallRecordView extends _editSmall.default {}
@@ -4327,11 +4327,11 @@ define("modules/crm/views/opportunity/record/edit-small", ["exports", "views/rec
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -4351,7 +4351,7 @@ define("modules/crm/views/opportunity/record/edit-small", ["exports", "views/rec
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/opportunity/record/panels/activities', ['crm:views/record/panels/activities'], function (Dep) {
@@ -4385,11 +4385,11 @@ define('crm:views/opportunity/record/panels/activities', ['crm:views/record/pane
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -4409,7 +4409,7 @@ define('crm:views/opportunity/record/panels/activities', ['crm:views/record/pane
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/opportunity/fields/stage', ['views/fields/enum'], function (Dep) {
@@ -4435,11 +4435,11 @@ define('crm:views/opportunity/fields/stage', ['views/fields/enum'], function (De
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -4459,7 +4459,7 @@ define('crm:views/opportunity/fields/stage', ['views/fields/enum'], function (De
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/opportunity/fields/lead-source', ['views/fields/enum'], function (Dep) {
@@ -4477,11 +4477,11 @@ define("modules/crm/views/opportunity/fields/last-stage", ["exports", "views/fie
   _enum = _interopRequireDefault(_enum);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -4501,7 +4501,7 @@ define("modules/crm/views/opportunity/fields/last-stage", ["exports", "views/fie
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   // noinspection JSUnusedGlobalSymbols
@@ -4530,11 +4530,11 @@ define("modules/crm/views/opportunity/fields/last-stage", ["exports", "views/fie
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -4554,7 +4554,7 @@ define("modules/crm/views/opportunity/fields/last-stage", ["exports", "views/fie
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/opportunity/fields/contacts',
@@ -4565,11 +4565,11 @@ define('crm:views/opportunity/fields/contacts',
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -4589,7 +4589,7 @@ define('crm:views/opportunity/fields/contacts',
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/opportunity/fields/contact-role', ['views/fields/enum'], function (Dep) {
@@ -4611,11 +4611,11 @@ define("modules/crm/views/opportunity/admin/field-manager/fields/probability-map
   _jquery = _interopRequireDefault(_jquery);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -4635,7 +4635,7 @@ define("modules/crm/views/opportunity/admin/field-manager/fields/probability-map
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   // noinspection JSUnusedGlobalSymbols
@@ -4697,11 +4697,11 @@ define("modules/crm/views/opportunity/admin/field-manager/fields/probability-map
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -4721,7 +4721,7 @@ define("modules/crm/views/opportunity/admin/field-manager/fields/probability-map
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/notification/items/event-attendee', ['views/notification/items/base'], function (Dep) {
@@ -4778,11 +4778,11 @@ define("modules/crm/views/meeting/popup-notification", ["exports", "views/popup-
   _popupNotification = _interopRequireDefault(_popupNotification);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -4802,7 +4802,7 @@ define("modules/crm/views/meeting/popup-notification", ["exports", "views/popup-
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class MeetingPopupNotificationView extends _popupNotification.default {
@@ -4846,11 +4846,11 @@ define("modules/crm/views/meeting/popup-notification", ["exports", "views/popup-
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -4870,7 +4870,7 @@ define("modules/crm/views/meeting/popup-notification", ["exports", "views/popup-
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/meeting/record/list-expanded',
@@ -4898,11 +4898,11 @@ define("modules/crm/views/meeting/record/edit-small", ["exports", "views/record/
   _edit = _interopRequireDefault(_edit);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -4922,7 +4922,7 @@ define("modules/crm/views/meeting/record/edit-small", ["exports", "views/record/
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _edit.default {}
@@ -4939,11 +4939,11 @@ define("modules/crm/views/meeting/record/detail", ["exports", "views/record/deta
   _detail = _interopRequireDefault(_detail);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -4963,7 +4963,7 @@ define("modules/crm/views/meeting/record/detail", ["exports", "views/record/deta
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class MeetingDetailRecordView extends _detail.default {
@@ -5025,11 +5025,11 @@ define("modules/crm/views/meeting/record/detail", ["exports", "views/record/deta
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -5049,7 +5049,7 @@ define("modules/crm/views/meeting/record/detail", ["exports", "views/record/deta
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/meeting/record/row-actions/default', ['views/record/row-actions/view-and-edit'], function (Dep) {
@@ -5108,11 +5108,11 @@ define('crm:views/meeting/record/row-actions/default', ['views/record/row-action
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -5132,7 +5132,7 @@ define('crm:views/meeting/record/row-actions/default', ['views/record/row-action
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/meeting/record/row-actions/dashlet', ['views/record/row-actions/view-and-edit'], function (Dep) {
@@ -5191,11 +5191,11 @@ define('crm:views/meeting/record/row-actions/dashlet', ['views/record/row-action
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -5215,7 +5215,7 @@ define('crm:views/meeting/record/row-actions/dashlet', ['views/record/row-action
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/meeting/record/panels/scheduler', ['views/record/panels/bottom'], function (Dep) {
@@ -5260,11 +5260,11 @@ define('crm:views/meeting/record/panels/scheduler', ['views/record/panels/bottom
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -5284,7 +5284,7 @@ define('crm:views/meeting/record/panels/scheduler', ['views/record/panels/bottom
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/meeting/record/panels/attendees', ['views/record/panels/side'], function (Dep) {
@@ -5308,11 +5308,11 @@ define('crm:views/meeting/record/panels/attendees', ['views/record/panels/side']
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -5332,7 +5332,7 @@ define('crm:views/meeting/record/panels/attendees', ['views/record/panels/side']
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/meeting/modals/send-invitations', ['views/modal', 'collection'], function (Dep, Collection) {
@@ -5507,11 +5507,11 @@ define('crm:views/meeting/modals/send-invitations', ['views/modal', 'collection'
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -5531,7 +5531,7 @@ define('crm:views/meeting/modals/send-invitations', ['views/modal', 'collection'
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/meeting/modals/send-cancellation', ['views/modal', 'collection'], function (Dep, Collection) {
@@ -5718,11 +5718,11 @@ define("modules/crm/views/meeting/modals/detail", ["exports", "moment", "views/m
   _detail = _interopRequireDefault(_detail);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -5742,7 +5742,7 @@ define("modules/crm/views/meeting/modals/detail", ["exports", "moment", "views/m
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class MeetingModalDetailView extends _detail.default {
@@ -5988,11 +5988,11 @@ define("modules/crm/views/meeting/modals/detail", ["exports", "moment", "views/m
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -6012,7 +6012,7 @@ define("modules/crm/views/meeting/modals/detail", ["exports", "moment", "views/m
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/meeting/modals/acceptance-status', ['views/modal'], function (Dep) {
@@ -6093,11 +6093,11 @@ define("modules/crm/views/meeting/fields/users", ["exports", "modules/crm/views/
   _attendees = _interopRequireDefault(_attendees);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -6117,7 +6117,7 @@ define("modules/crm/views/meeting/fields/users", ["exports", "modules/crm/views/
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _attendees.default {
@@ -6175,11 +6175,11 @@ define("modules/crm/views/meeting/fields/reminders", ["exports", "ui/select", "m
   _base = _interopRequireDefault(_base);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -6199,7 +6199,7 @@ define("modules/crm/views/meeting/fields/reminders", ["exports", "ui/select", "m
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class MeetingRemindersField extends _base.default {
@@ -6445,11 +6445,11 @@ define("modules/crm/views/meeting/fields/date-start", ["exports", "views/fields/
   _moment = _interopRequireDefault(_moment);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -6469,7 +6469,7 @@ define("modules/crm/views/meeting/fields/date-start", ["exports", "views/fields/
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class DateStartMeetingFieldView extends _datetimeOptional.default {
@@ -6564,11 +6564,11 @@ define("modules/crm/views/meeting/fields/date-start", ["exports", "views/fields/
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -6588,7 +6588,7 @@ define("modules/crm/views/meeting/fields/date-start", ["exports", "views/fields/
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/meeting/fields/date-end', ['views/fields/datetime-optional'], function (Dep) {
@@ -6683,11 +6683,11 @@ define("modules/crm/views/meeting/fields/contacts", ["exports", "modules/crm/vie
   _attendees = _interopRequireDefault(_attendees);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -6707,7 +6707,7 @@ define("modules/crm/views/meeting/fields/contacts", ["exports", "modules/crm/vie
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _attendees.default {}
@@ -6724,11 +6724,11 @@ define("modules/crm/views/meeting/fields/acceptance-status", ["exports", "views/
   _enum = _interopRequireDefault(_enum);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -6748,7 +6748,7 @@ define("modules/crm/views/meeting/fields/acceptance-status", ["exports", "views/
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _enum.default {
@@ -6775,11 +6775,11 @@ define("modules/crm/views/mass-email/detail", ["exports", "views/detail", "crm:v
   _sendTest = _interopRequireDefault(_sendTest);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -6799,7 +6799,7 @@ define("modules/crm/views/mass-email/detail", ["exports", "views/detail", "crm:v
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _detail.default {
@@ -6836,11 +6836,11 @@ define("modules/crm/views/mass-email/record/list-for-campaign", ["exports", "vie
   _sendTest = _interopRequireDefault(_sendTest);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -6860,7 +6860,7 @@ define("modules/crm/views/mass-email/record/list-for-campaign", ["exports", "vie
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _list.default {
@@ -6882,11 +6882,11 @@ define("modules/crm/views/mass-email/record/list-for-campaign", ["exports", "vie
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -6906,7 +6906,7 @@ define("modules/crm/views/mass-email/record/list-for-campaign", ["exports", "vie
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/mass-email/record/edit-small',
@@ -6922,11 +6922,11 @@ define('crm:views/mass-email/record/edit-small',
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -6946,7 +6946,7 @@ define('crm:views/mass-email/record/edit-small',
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/mass-email/record/detail', ['views/record/detail'], function (Dep) {
@@ -6961,11 +6961,11 @@ define('crm:views/mass-email/record/detail', ['views/record/detail'], function (
 
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -6985,7 +6985,7 @@ define('crm:views/mass-email/record/detail', ['views/record/detail'], function (
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/mass-email/record/detail-bottom', ['views/record/detail-bottom'], function (Dep) {
@@ -7014,11 +7014,11 @@ define('crm:views/mass-email/record/detail-bottom', ['views/record/detail-bottom
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -7038,7 +7038,7 @@ define('crm:views/mass-email/record/detail-bottom', ['views/record/detail-bottom
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/mass-email/record/row-actions/for-campaign',
@@ -7065,11 +7065,11 @@ define('crm:views/mass-email/record/row-actions/for-campaign',
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -7089,7 +7089,7 @@ define('crm:views/mass-email/record/row-actions/for-campaign',
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/mass-email/fields/smtp-account', ['views/lead-capture/fields/smtp-account'], function (Dep) {
@@ -7101,11 +7101,11 @@ define('crm:views/mass-email/fields/smtp-account', ['views/lead-capture/fields/s
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -7125,7 +7125,7 @@ define('crm:views/mass-email/fields/smtp-account', ['views/lead-capture/fields/s
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/mass-email/fields/from-address', ['views/fields/varchar'], function (Dep) {
@@ -7147,11 +7147,11 @@ define('crm:views/mass-email/fields/from-address', ['views/fields/varchar'], fun
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -7171,7 +7171,7 @@ define('crm:views/mass-email/fields/from-address', ['views/fields/varchar'], fun
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/mass-email/fields/email-template', ['views/fields/link'], function (Dep) {
@@ -7196,11 +7196,11 @@ define("modules/crm/views/lead/detail", ["exports", "views/detail"], function (_
   _detail = _interopRequireDefault(_detail);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -7220,7 +7220,7 @@ define("modules/crm/views/lead/detail", ["exports", "views/detail"], function (_
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class LeadDetailView extends _detail.default {
@@ -7261,11 +7261,11 @@ define("modules/crm/views/lead/convert", ["exports", "views/main"], function (_e
   _main = _interopRequireDefault(_main);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -7285,7 +7285,7 @@ define("modules/crm/views/lead/convert", ["exports", "views/main"], function (_e
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class ConvertLeadView extends _main.default {
@@ -7473,11 +7473,11 @@ define("modules/crm/views/lead/record/detail", ["exports", "views/record/detail"
   _detail = _interopRequireDefault(_detail);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -7497,7 +7497,7 @@ define("modules/crm/views/lead/record/detail", ["exports", "views/record/detail"
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _detail.default {
@@ -7519,11 +7519,11 @@ define("modules/crm/views/lead/record/detail", ["exports", "views/record/detail"
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -7543,7 +7543,7 @@ define("modules/crm/views/lead/record/detail", ["exports", "views/record/detail"
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/lead/record/detail-side', ['views/record/detail-side'], function (Dep) {
@@ -7556,11 +7556,11 @@ define('crm:views/lead/record/detail-side', ['views/record/detail-side'], functi
 
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -7580,7 +7580,7 @@ define('crm:views/lead/record/detail-side', ['views/record/detail-side'], functi
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/lead/record/panels/converted-to', ['views/record/panels/side'], function (Dep) {
@@ -7606,11 +7606,11 @@ define('crm:views/lead/record/panels/converted-to', ['views/record/panels/side']
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -7630,7 +7630,7 @@ define('crm:views/lead/record/panels/converted-to', ['views/record/panels/side']
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/lead/fields/industry', ['views/fields/enum'], function (Dep) {
@@ -7639,11 +7639,11 @@ define('crm:views/lead/fields/industry', ['views/fields/enum'], function (Dep) {
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -7663,7 +7663,7 @@ define('crm:views/lead/fields/industry', ['views/fields/enum'], function (Dep) {
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/lead/fields/created-opportunity', ['views/fields/link'], function (Dep) {
@@ -7689,11 +7689,11 @@ define('crm:views/lead/fields/created-opportunity', ['views/fields/link'], funct
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -7713,7 +7713,7 @@ define('crm:views/lead/fields/created-opportunity', ['views/fields/link'], funct
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/lead/fields/created-contact', ['views/fields/link'], function (Dep) {
@@ -7739,11 +7739,11 @@ define('crm:views/lead/fields/created-contact', ['views/fields/link'], function 
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -7763,7 +7763,7 @@ define('crm:views/lead/fields/created-contact', ['views/fields/link'], function 
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/lead/fields/acceptance-status', ['views/fields/enum-column'], function (Dep) {
@@ -7782,11 +7782,11 @@ define('crm:views/lead/fields/acceptance-status', ['views/fields/enum-column'], 
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -7806,7 +7806,7 @@ define('crm:views/lead/fields/acceptance-status', ['views/fields/enum-column'], 
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/knowledge-base-article/list', ['views/list-with-categories'], function (Dep) {
@@ -7818,11 +7818,11 @@ define('crm:views/knowledge-base-article/list', ['views/list-with-categories'], 
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -7842,7 +7842,7 @@ define('crm:views/knowledge-base-article/list', ['views/list-with-categories'], 
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/knowledge-base-article/record/list', ['views/record/list'], function (Dep) {
@@ -7851,11 +7851,11 @@ define('crm:views/knowledge-base-article/record/list', ['views/record/list'], fu
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -7875,7 +7875,7 @@ define('crm:views/knowledge-base-article/record/list', ['views/record/list'], fu
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/knowledge-base-article/record/edit', ['views/record/edit'], function (Dep) {
@@ -7888,11 +7888,11 @@ define('crm:views/knowledge-base-article/record/edit', ['views/record/edit'], fu
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -7912,7 +7912,7 @@ define('crm:views/knowledge-base-article/record/edit', ['views/record/edit'], fu
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/knowledge-base-article/record/edit-quick', ['views/record/edit-small'], function (Dep) {
@@ -7935,11 +7935,11 @@ define("modules/crm/views/knowledge-base-article/record/detail", ["exports", "mo
   _detail = _interopRequireDefault(_detail);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -7959,7 +7959,7 @@ define("modules/crm/views/knowledge-base-article/record/detail", ["exports", "mo
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class KnowledgeBaseRecordDetailView extends _detail.default {
@@ -8006,11 +8006,11 @@ define("modules/crm/views/knowledge-base-article/record/detail", ["exports", "mo
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -8030,7 +8030,7 @@ define("modules/crm/views/knowledge-base-article/record/detail", ["exports", "mo
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/knowledge-base-article/record/detail-quick', ['views/record/detail-small'], function (Dep) {
@@ -8044,11 +8044,11 @@ define('crm:views/knowledge-base-article/record/detail-quick', ['views/record/de
 
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -8068,7 +8068,7 @@ define('crm:views/knowledge-base-article/record/detail-quick', ['views/record/de
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/knowledge-base-article/modals/select-records',
@@ -8081,11 +8081,11 @@ define('crm:views/knowledge-base-article/modals/select-records',
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -8105,7 +8105,7 @@ define('crm:views/knowledge-base-article/modals/select-records',
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/knowledge-base-article/fields/status', ['views/fields/enum'], function (Dep) {
@@ -8135,11 +8135,11 @@ define('crm:views/knowledge-base-article/fields/status', ['views/fields/enum'], 
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -8159,7 +8159,7 @@ define('crm:views/knowledge-base-article/fields/status', ['views/fields/enum'], 
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/knowledge-base-article/fields/language', ['views/fields/enum'], function (Dep) {
@@ -8176,11 +8176,11 @@ define('crm:views/knowledge-base-article/fields/language', ['views/fields/enum']
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -8200,7 +8200,7 @@ define('crm:views/knowledge-base-article/fields/language', ['views/fields/enum']
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/fields/ico', ['views/fields/base'], function (Dep) {
@@ -8233,11 +8233,11 @@ define('crm:views/fields/ico', ['views/fields/base'], function (Dep) {
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -8257,7 +8257,7 @@ define('crm:views/fields/ico', ['views/fields/base'], function (Dep) {
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/event-confirmation/confirmation', ['view'], function (Dep) {
@@ -8325,11 +8325,11 @@ define('crm:views/event-confirmation/confirmation', ['view'], function (Dep) {
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -8349,7 +8349,7 @@ define('crm:views/event-confirmation/confirmation', ['view'], function (Dep) {
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/email-queue-item/list', ['views/list'], function (Dep) {
@@ -8361,11 +8361,11 @@ define('crm:views/email-queue-item/list', ['views/list'], function (Dep) {
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -8385,7 +8385,7 @@ define('crm:views/email-queue-item/list', ['views/list'], function (Dep) {
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/email-queue-item/record/list', ['views/record/list'], function (Dep) {
@@ -8397,11 +8397,11 @@ define('crm:views/email-queue-item/record/list', ['views/record/list'], function
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -8421,7 +8421,7 @@ define('crm:views/email-queue-item/record/list', ['views/record/list'], function
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/document/list', ['views/list-with-categories'], function (Dep) {
@@ -8433,11 +8433,11 @@ define('crm:views/document/list', ['views/list-with-categories'], function (Dep)
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -8457,7 +8457,7 @@ define('crm:views/document/list', ['views/list-with-categories'], function (Dep)
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/document/modals/select-records', ['views/modals/select-records-with-categories'], function (Dep) {
@@ -8469,11 +8469,11 @@ define('crm:views/document/modals/select-records', ['views/modals/select-records
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -8493,7 +8493,7 @@ define('crm:views/document/modals/select-records', ['views/modals/select-records
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/document/fields/name', ['views/fields/varchar'], function (Dep) {
@@ -8513,11 +8513,11 @@ define('crm:views/document/fields/name', ['views/fields/varchar'], function (Dep
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -8537,7 +8537,7 @@ define('crm:views/document/fields/name', ['views/fields/varchar'], function (Dep
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/document/fields/file', ['views/fields/file'], function (Dep) {
@@ -8569,11 +8569,11 @@ define('crm:views/document/fields/file', ['views/fields/file'], function (Dep) {
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -8593,7 +8593,7 @@ define('crm:views/document/fields/file', ['views/fields/file'], function (Dep) {
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/dashlets/tasks', ['views/dashlets/abstract/record-list'], function (Dep) {
@@ -8607,11 +8607,11 @@ define('crm:views/dashlets/tasks', ['views/dashlets/abstract/record-list'], func
 
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -8631,7 +8631,7 @@ define('crm:views/dashlets/tasks', ['views/dashlets/abstract/record-list'], func
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/dashlets/meetings', ['views/dashlets/abstract/record-list'], function (Dep) {
@@ -8646,11 +8646,11 @@ define('crm:views/dashlets/meetings', ['views/dashlets/abstract/record-list'], f
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -8670,7 +8670,7 @@ define('crm:views/dashlets/meetings', ['views/dashlets/abstract/record-list'], f
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/dashlets/calls', ['views/dashlets/abstract/record-list'], function (Dep) {
@@ -8695,11 +8695,11 @@ define("modules/crm/views/dashlets/calendar", ["exports", "views/dashlets/abstra
   _base = _interopRequireDefault(_base);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -8719,7 +8719,7 @@ define("modules/crm/views/dashlets/calendar", ["exports", "views/dashlets/abstra
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class CalendarDashletView extends _base.default {
@@ -8864,11 +8864,11 @@ define("modules/crm/views/dashlets/activities", ["exports", "views/dashlets/abst
   _recordModal = _interopRequireDefault(_recordModal);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -8888,7 +8888,7 @@ define("modules/crm/views/dashlets/activities", ["exports", "views/dashlets/abst
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class ActivitiesDashletView extends _base.default {
@@ -9086,11 +9086,11 @@ define("modules/crm/views/dashlets/activities", ["exports", "views/dashlets/abst
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -9110,7 +9110,7 @@ define("modules/crm/views/dashlets/activities", ["exports", "views/dashlets/abst
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/dashlets/options/sales-pipeline', ['crm:views/dashlets/options/chart'], function (Dep) {
@@ -9128,11 +9128,11 @@ define('crm:views/dashlets/options/sales-pipeline', ['crm:views/dashlets/options
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -9152,7 +9152,7 @@ define('crm:views/dashlets/options/sales-pipeline', ['crm:views/dashlets/options
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/dashlets/options/calendar', ['views/dashlets/options/base'], function (Dep) {
@@ -9198,11 +9198,11 @@ define('crm:views/dashlets/options/calendar', ['views/dashlets/options/base'], f
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -9222,7 +9222,7 @@ define('crm:views/dashlets/options/calendar', ['views/dashlets/options/base'], f
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/dashlets/options/activities', ['views/dashlets/options/base'], function (Dep) {
@@ -9255,11 +9255,11 @@ define('crm:views/dashlets/options/activities', ['views/dashlets/options/base'],
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -9279,7 +9279,7 @@ define('crm:views/dashlets/options/activities', ['views/dashlets/options/base'],
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/dashlets/options/sales-pipeline/fields/team', ['views/fields/link'], function (Dep) {
@@ -9305,11 +9305,11 @@ define("modules/crm/views/contact/detail", ["exports", "views/detail"], function
   _detail = _interopRequireDefault(_detail);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -9329,7 +9329,7 @@ define("modules/crm/views/contact/detail", ["exports", "views/detail"], function
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   /** Left for bc. */
@@ -9338,11 +9338,11 @@ define("modules/crm/views/contact/detail", ["exports", "views/detail"], function
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -9362,7 +9362,7 @@ define("modules/crm/views/contact/detail", ["exports", "views/detail"], function
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/contact/record/detail-small', ['views/record/detail-small', 'crm:views/contact/record/detail'], function (Dep, Detail) {
@@ -9382,11 +9382,11 @@ define("modules/crm/views/contact/modals/select-for-portal-user", ["exports", "v
   _selectRecords = _interopRequireDefault(_selectRecords);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -9406,7 +9406,7 @@ define("modules/crm/views/contact/modals/select-for-portal-user", ["exports", "v
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class SelectForPortalUserModalView extends _selectRecords.default {
@@ -9437,11 +9437,11 @@ define("modules/crm/views/contact/modals/select-for-portal-user", ["exports", "v
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -9461,7 +9461,7 @@ define("modules/crm/views/contact/modals/select-for-portal-user", ["exports", "v
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/contact/fields/title', ['views/fields/varchar'], function (Dep) {
@@ -9477,11 +9477,11 @@ define('crm:views/contact/fields/title', ['views/fields/varchar'], function (Dep
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -9501,7 +9501,7 @@ define('crm:views/contact/fields/title', ['views/fields/varchar'], function (Dep
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/contact/fields/opportunity-role', ['views/fields/enum'], function (Dep) {
@@ -9513,11 +9513,11 @@ define('crm:views/contact/fields/opportunity-role', ['views/fields/enum'], funct
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -9537,7 +9537,7 @@ define('crm:views/contact/fields/opportunity-role', ['views/fields/enum'], funct
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/contact/fields/name-for-account', ['views/fields/person-name'], function (Dep) {
@@ -9570,11 +9570,11 @@ define("modules/crm/views/contact/fields/accounts", ["exports", "views/fields/li
   _linkMultipleWithColumns = _interopRequireDefault(_linkMultipleWithColumns);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -9594,7 +9594,7 @@ define("modules/crm/views/contact/fields/accounts", ["exports", "views/fields/li
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class AccountsFieldView extends _linkMultipleWithColumns.default {
@@ -9740,11 +9740,11 @@ define("modules/crm/views/contact/fields/accounts", ["exports", "views/fields/li
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -9764,7 +9764,7 @@ define("modules/crm/views/contact/fields/accounts", ["exports", "views/fields/li
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/contact/fields/account', ['views/fields/link'], function (Dep) {
@@ -9792,11 +9792,11 @@ define('crm:views/contact/fields/account', ['views/fields/link'], function (Dep)
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -9816,7 +9816,7 @@ define('crm:views/contact/fields/account', ['views/fields/link'], function (Dep)
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/contact/fields/account-role', ['views/fields/varchar'], function (Dep) {
@@ -9865,11 +9865,11 @@ define("modules/crm/views/case/record/detail", ["exports", "views/record/detail"
   _detail = _interopRequireDefault(_detail);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -9889,7 +9889,7 @@ define("modules/crm/views/case/record/detail", ["exports", "views/record/detail"
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _detail.default {
@@ -9910,11 +9910,11 @@ define("modules/crm/views/case/record/detail", ["exports", "views/record/detail"
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -9934,7 +9934,7 @@ define("modules/crm/views/case/record/detail", ["exports", "views/record/detail"
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/case/record/panels/activities', ['crm:views/record/panels/activities'], function (Dep) {
@@ -9974,11 +9974,11 @@ define('crm:views/case/record/panels/activities', ['crm:views/record/panels/acti
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -9998,7 +9998,7 @@ define('crm:views/case/record/panels/activities', ['crm:views/record/panels/acti
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/campaign-tracking-url/record/edit', ['views/record/edit'], function (Dep) {
@@ -10008,11 +10008,11 @@ define('crm:views/campaign-tracking-url/record/edit', ['views/record/edit'], fun
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -10032,7 +10032,7 @@ define('crm:views/campaign-tracking-url/record/edit', ['views/record/edit'], fun
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/campaign-tracking-url/record/edit-small', ['views/record/edit-small'], function (Dep) {
@@ -10043,11 +10043,11 @@ define('crm:views/campaign-tracking-url/record/edit-small', ['views/record/edit-
 
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -10067,7 +10067,7 @@ define('crm:views/campaign-tracking-url/record/edit-small', ['views/record/edit-
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/campaign-log-record/fields/data', ['views/fields/base'], function (Dep) {
@@ -10155,11 +10155,11 @@ define("modules/crm/views/campaign/unsubscribe", ["exports", "view"], function (
   _view = _interopRequireDefault(_view);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -10179,7 +10179,7 @@ define("modules/crm/views/campaign/unsubscribe", ["exports", "view"], function (
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class CampaignUnsubscribeView extends _view.default {
@@ -10250,11 +10250,11 @@ define("modules/crm/views/campaign/tracking-url", ["exports", "view"], function 
   _view = _interopRequireDefault(_view);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -10274,7 +10274,7 @@ define("modules/crm/views/campaign/tracking-url", ["exports", "view"], function 
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _view.default {
@@ -10310,11 +10310,11 @@ define("modules/crm/views/campaign/detail", ["exports", "views/detail"], functio
   _detail = _interopRequireDefault(_detail);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -10334,7 +10334,7 @@ define("modules/crm/views/campaign/detail", ["exports", "views/detail"], functio
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _detail.default {}
@@ -10342,11 +10342,11 @@ define("modules/crm/views/campaign/detail", ["exports", "views/detail"], functio
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -10366,7 +10366,7 @@ define("modules/crm/views/campaign/detail", ["exports", "views/detail"], functio
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/campaign/record/detail', ['views/record/detail'], function (Dep) {
@@ -10450,11 +10450,11 @@ define("modules/crm/views/campaign/record/panels/campaign-stats", ["exports", "v
   _side = _interopRequireDefault(_side);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -10474,7 +10474,7 @@ define("modules/crm/views/campaign/record/panels/campaign-stats", ["exports", "v
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   // noinspection JSUnusedGlobalSymbols
@@ -10546,11 +10546,11 @@ define("modules/crm/views/campaign/record/panels/campaign-log-records", ["export
   _recordModal = _interopRequireDefault(_recordModal);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -10570,7 +10570,7 @@ define("modules/crm/views/campaign/record/panels/campaign-log-records", ["export
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   // noinspection JSUnusedGlobalSymbols
@@ -10622,11 +10622,11 @@ define("modules/crm/views/campaign/record/panels/campaign-log-records", ["export
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -10646,7 +10646,7 @@ define("modules/crm/views/campaign/record/panels/campaign-log-records", ["export
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/campaign/modals/mail-merge-pdf', ['views/modal', 'ui/select'],
@@ -10710,11 +10710,11 @@ function (Dep, /** module:ui/select */ Select) {
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -10734,7 +10734,7 @@ function (Dep, /** module:ui/select */ Select) {
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/campaign/fields/template', ['views/fields/link'], function (Dep) {
@@ -10757,11 +10757,11 @@ define('crm:views/campaign/fields/template', ['views/fields/link'], function (De
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -10781,7 +10781,7 @@ define('crm:views/campaign/fields/template', ['views/fields/link'], function (De
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/campaign/fields/int-with-percentage', ['views/fields/int'], function (Dep) {
@@ -10812,11 +10812,11 @@ define("modules/crm/views/call/detail", ["exports", "modules/crm/views/meeting/d
   _detail = _interopRequireDefault(_detail);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -10836,7 +10836,7 @@ define("modules/crm/views/call/detail", ["exports", "modules/crm/views/meeting/d
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _detail.default {}
@@ -10844,11 +10844,11 @@ define("modules/crm/views/call/detail", ["exports", "modules/crm/views/meeting/d
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -10868,7 +10868,7 @@ define("modules/crm/views/call/detail", ["exports", "modules/crm/views/meeting/d
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/call/record/list-expanded', ['views/record/list-expanded', 'crm:views/call/record/list'],
@@ -10896,11 +10896,11 @@ define("modules/crm/views/call/record/edit-small", ["exports", "views/record/edi
   _edit = _interopRequireDefault(_edit);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -10920,7 +10920,7 @@ define("modules/crm/views/call/record/edit-small", ["exports", "views/record/edi
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _edit.default {}
@@ -10937,11 +10937,11 @@ define("modules/crm/views/call/record/detail", ["exports", "views/record/detail"
   _detail = _interopRequireDefault(_detail);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -10961,7 +10961,7 @@ define("modules/crm/views/call/record/detail", ["exports", "views/record/detail"
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _detail.default {
@@ -11019,11 +11019,11 @@ define("modules/crm/views/call/record/detail", ["exports", "views/record/detail"
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -11043,7 +11043,7 @@ define("modules/crm/views/call/record/detail", ["exports", "views/record/detail"
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/call/record/row-actions/default', ['views/record/row-actions/view-and-edit'], function (Dep) {
@@ -11094,11 +11094,11 @@ define('crm:views/call/record/row-actions/default', ['views/record/row-actions/v
 });
 
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -11118,7 +11118,7 @@ define('crm:views/call/record/row-actions/default', ['views/record/row-actions/v
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 define('crm:views/call/record/row-actions/dashlet', ['views/record/row-actions/view-and-edit'], function (Dep) {
@@ -11179,11 +11179,11 @@ define("modules/crm/views/call/fields/leads", ["exports", "modules/crm/views/cal
   _contacts = _interopRequireDefault(_contacts);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -11203,7 +11203,7 @@ define("modules/crm/views/call/fields/leads", ["exports", "modules/crm/views/cal
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _contacts.default {}
@@ -11221,11 +11221,11 @@ define("modules/crm/views/call/fields/date-start", ["exports", "views/fields/dat
   _moment = _interopRequireDefault(_moment);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -11245,7 +11245,7 @@ define("modules/crm/views/call/fields/date-start", ["exports", "views/fields/dat
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class DateStartCallFieldView extends _datetime.default {
@@ -11304,11 +11304,11 @@ define("modules/crm/views/calendar/mode-buttons", ["exports", "view"], function 
   _view = _interopRequireDefault(_view);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -11328,7 +11328,7 @@ define("modules/crm/views/calendar/mode-buttons", ["exports", "view"], function 
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   /** @module modules/crm/views/calendar/mode-buttons */
@@ -11446,11 +11446,11 @@ define("modules/crm/views/calendar/calendar-page", ["exports", "view", "crm:view
   _editView = _interopRequireDefault(_editView);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -11470,7 +11470,7 @@ define("modules/crm/views/calendar/calendar-page", ["exports", "view", "crm:view
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class CalendarPage extends _view.default {
@@ -11825,11 +11825,11 @@ define("modules/crm/views/calendar/modals/shared-options", ["exports", "views/mo
   _users = _interopRequireDefault(_users);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -11849,7 +11849,7 @@ define("modules/crm/views/calendar/modals/shared-options", ["exports", "views/mo
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class TimelineSharedOptionsModalView extends _modal.default {
@@ -11950,11 +11950,11 @@ define("modules/crm/views/calendar/modals/edit", ["exports", "views/modals/edit"
   _edit = _interopRequireDefault(_edit);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -11974,7 +11974,7 @@ define("modules/crm/views/calendar/modals/edit", ["exports", "views/modals/edit"
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class CalenderEditModalView extends _edit.default {
@@ -12171,11 +12171,11 @@ define("modules/crm/views/admin/entity-manager/fields/status-list", ["exports", 
   _multiEnum = _interopRequireDefault(_multiEnum);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -12195,7 +12195,7 @@ define("modules/crm/views/admin/entity-manager/fields/status-list", ["exports", 
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _multiEnum.default {
@@ -12219,11 +12219,11 @@ define("modules/crm/views/activities/list", ["exports", "views/list-related"], f
   _listRelated = _interopRequireDefault(_listRelated);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -12243,7 +12243,7 @@ define("modules/crm/views/activities/list", ["exports", "views/list-related"], f
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class ActivitiesListView extends _listRelated.default {
@@ -12300,11 +12300,11 @@ define("modules/crm/views/account/detail", ["exports", "views/detail"], function
   _detail = _interopRequireDefault(_detail);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -12324,7 +12324,7 @@ define("modules/crm/views/account/detail", ["exports", "views/detail"], function
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   /** Left for bc. */
@@ -12342,11 +12342,11 @@ define("modules/crm/views/account/fields/shipping-address", ["exports", "views/f
   _address = _interopRequireDefault(_address);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -12366,7 +12366,7 @@ define("modules/crm/views/account/fields/shipping-address", ["exports", "views/f
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class _default extends _address.default {
@@ -12461,11 +12461,11 @@ define("modules/crm/view-setup-handlers/document/record-list-drag-n-drop", ["exp
   _underscore = _interopRequireDefault(_underscore);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -12485,7 +12485,7 @@ define("modules/crm/view-setup-handlers/document/record-list-drag-n-drop", ["exp
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   const Handler = function (view) {
@@ -12614,11 +12614,11 @@ define("modules/crm/handlers/task/reminders-handler", ["exports", "bullbone"], f
   });
   _exports.default = void 0;
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -12638,7 +12638,7 @@ define("modules/crm/handlers/task/reminders-handler", ["exports", "bullbone"], f
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   /**
@@ -12694,11 +12694,11 @@ define("modules/crm/handlers/task/menu", ["exports", "action-handler"], function
   _actionHandler = _interopRequireDefault(_actionHandler);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -12718,7 +12718,7 @@ define("modules/crm/handlers/task/menu", ["exports", "action-handler"], function
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class TaskMenuHandler extends _actionHandler.default {
@@ -12759,11 +12759,11 @@ define("modules/crm/handlers/task/detail-actions", ["exports", "action-handler"]
   _actionHandler = _interopRequireDefault(_actionHandler);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -12783,7 +12783,7 @@ define("modules/crm/handlers/task/detail-actions", ["exports", "action-handler"]
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class DetailActions extends _actionHandler.default {
@@ -12821,11 +12821,11 @@ define("modules/crm/handlers/opportunity/defaults-preparator", ["exports", "hand
   _metadata = _interopRequireDefault(_metadata);
   let _init_metadata, _init_extra_metadata;
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -12845,7 +12845,7 @@ define("modules/crm/handlers/opportunity/defaults-preparator", ["exports", "hand
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   function _applyDecs(e, t, n, r, o, i) { var a, c, u, s, f, l, p, d = Symbol.metadata || Symbol.for("Symbol.metadata"), m = Object.defineProperty, h = Object.create, y = [h(null), h(null)], v = t.length; function g(t, n, r) { return function (o, i) { n && (i = o, o = e); for (var a = 0; a < t.length; a++) i = t[a].apply(o, r ? [i] : []); return r ? i : o; }; } function b(e, t, n, r) { if ("function" != typeof e && (r || void 0 !== e)) throw new TypeError(t + " must " + (n || "be") + " a function" + (r ? "" : " or undefined")); return e; } function applyDec(e, t, n, r, o, i, u, s, f, l, p) { function d(e) { if (!p(e)) throw new TypeError("Attempted to access private element on non-instance"); } var h = [].concat(t[0]), v = t[3], w = !u, D = 1 === o, S = 3 === o, j = 4 === o, E = 2 === o; function I(t, n, r) { return function (o, i) { return n && (i = o, o = e), r && r(o), P[t].call(o, i); }; } if (!w) { var P = {}, k = [], F = S ? "get" : j || D ? "set" : "value"; if (f ? (l || D ? P = { get: _setFunctionName(function () { return v(this); }, r, "get"), set: function (e) { t[4](this, e); } } : P[F] = v, l || _setFunctionName(P[F], r, E ? "" : F)) : l || (P = Object.getOwnPropertyDescriptor(e, r)), !l && !f) { if ((c = y[+s][r]) && 7 != (c ^ o)) throw Error("Decorating two elements with the same name (" + P[F].name + ") is not supported yet"); y[+s][r] = o < 3 ? 1 : o; } } for (var N = e, O = h.length - 1; O >= 0; O -= n ? 2 : 1) { var T = b(h[O], "A decorator", "be", !0), z = n ? h[O - 1] : void 0, A = {}, H = { kind: ["field", "accessor", "method", "getter", "setter", "class"][o], name: r, metadata: a, addInitializer: function (e, t) { if (e.v) throw new TypeError("attempted to call addInitializer after decoration was finished"); b(t, "An initializer", "be", !0), i.push(t); }.bind(null, A) }; if (w) c = T.call(z, N, H), A.v = 1, b(c, "class decorators", "return") && (N = c);else if (H.static = s, H.private = f, c = H.access = { has: f ? p.bind() : function (e) { return r in e; } }, j || (c.get = f ? E ? function (e) { return d(e), P.value; } : I("get", 0, d) : function (e) { return e[r]; }), E || S || (c.set = f ? I("set", 0, d) : function (e, t) { e[r] = t; }), N = T.call(z, D ? { get: P.get, set: P.set } : P[F], H), A.v = 1, D) { if ("object" == typeof N && N) (c = b(N.get, "accessor.get")) && (P.get = c), (c = b(N.set, "accessor.set")) && (P.set = c), (c = b(N.init, "accessor.init")) && k.unshift(c);else if (void 0 !== N) throw new TypeError("accessor decorators must return an object with get, set, or init properties or undefined"); } else b(N, (l ? "field" : "method") + " decorators", "return") && (l ? k.unshift(N) : P[F] = N); } return o < 2 && u.push(g(k, s, 1), g(i, s, 0)), l || w || (f ? D ? u.splice(-1, 0, I("get", s), I("set", s)) : u.push(E ? P[F] : b.call.bind(P[F])) : m(e, r, P)), N; } function w(e) { return m(e, d, { configurable: !0, enumerable: !0, value: a }); } return void 0 !== i && (a = i[d]), a = h(null == a ? null : a), f = [], l = function (e) { e && f.push(g(e)); }, p = function (t, r) { for (var i = 0; i < n.length; i++) { var a = n[i], c = a[1], l = 7 & c; if ((8 & c) == t && !l == r) { var p = a[2], d = !!a[3], m = 16 & c; applyDec(t ? e : e.prototype, a, m, d ? "#" + p : _toPropertyKey(p), l, l < 2 ? [] : t ? s = s || [] : u = u || [], f, !!t, d, r, t && d ? function (t) { return _checkInRHS(t) === e; } : o); } } }, p(8, 0), p(0, 0), p(8, 1), p(0, 1), l(u), l(s), c = f, v || w(e), { e: c, get c() { var n = []; return v && [w(e = applyDec(e, [t], r, e.name, 5, n)), g(n, 1)]; } }; }
@@ -12888,11 +12888,11 @@ define("modules/crm/handlers/opportunity/contacts-create", ["exports", "handlers
   _createRelated = _interopRequireDefault(_createRelated);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -12912,7 +12912,7 @@ define("modules/crm/handlers/opportunity/contacts-create", ["exports", "handlers
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class ContactsCreateHandler extends _createRelated.default {
@@ -12937,11 +12937,11 @@ define("modules/crm/handlers/knowledge-base-article/send-in-email", ["exports", 
   _rowAction = _interopRequireDefault(_rowAction);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -12961,7 +12961,7 @@ define("modules/crm/handlers/knowledge-base-article/send-in-email", ["exports", 
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class SendInEmailHandler extends _rowAction.default {
@@ -13063,11 +13063,11 @@ define("modules/crm/handlers/knowledge-base-article/move", ["exports", "handlers
   _rowAction = _interopRequireDefault(_rowAction);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -13087,7 +13087,7 @@ define("modules/crm/handlers/knowledge-base-article/move", ["exports", "handlers
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class MoveActionHandler extends _rowAction.default {
@@ -13175,11 +13175,11 @@ define("modules/crm/handlers/event/reminders-handler", ["exports", "bullbone"], 
   });
   _exports.default = void 0;
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -13199,7 +13199,7 @@ define("modules/crm/handlers/event/reminders-handler", ["exports", "bullbone"], 
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   /**
@@ -13252,11 +13252,11 @@ define("modules/crm/handlers/case/detail-actions", ["exports", "action-handler"]
   _actionHandler = _interopRequireDefault(_actionHandler);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -13276,7 +13276,7 @@ define("modules/crm/handlers/case/detail-actions", ["exports", "action-handler"]
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class CaseDetailActionHandler extends _actionHandler.default {
@@ -13346,11 +13346,11 @@ define("modules/crm/handlers/campaign/mass-emails-create", ["exports", "handlers
   _createRelated = _interopRequireDefault(_createRelated);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -13370,7 +13370,7 @@ define("modules/crm/handlers/campaign/mass-emails-create", ["exports", "handlers
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class MassEmailsCreateHandler extends _createRelated.default {
@@ -13393,11 +13393,11 @@ define("modules/crm/controllers/unsubscribe", ["exports", "controller"], functio
   _controller = _interopRequireDefault(_controller);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -13417,7 +13417,7 @@ define("modules/crm/controllers/unsubscribe", ["exports", "controller"], functio
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class UnsubscribeController extends _controller.default {
@@ -13445,11 +13445,11 @@ define("modules/crm/controllers/tracking-url", ["exports", "controller"], functi
   _controller = _interopRequireDefault(_controller);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -13469,7 +13469,7 @@ define("modules/crm/controllers/tracking-url", ["exports", "controller"], functi
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class TrackingUrlController extends _controller.default {
@@ -13497,11 +13497,11 @@ define("modules/crm/controllers/task", ["exports", "controllers/record"], functi
   _record = _interopRequireDefault(_record);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -13521,7 +13521,7 @@ define("modules/crm/controllers/task", ["exports", "controllers/record"], functi
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class TaskController extends _record.default {
@@ -13549,11 +13549,11 @@ define("modules/crm/controllers/lead", ["exports", "controllers/record"], functi
   _record = _interopRequireDefault(_record);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -13573,7 +13573,7 @@ define("modules/crm/controllers/lead", ["exports", "controllers/record"], functi
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class LeadController extends _record.default {
@@ -13597,11 +13597,11 @@ define("modules/crm/controllers/event-confirmation", ["exports", "controller"], 
   _controller = _interopRequireDefault(_controller);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -13621,7 +13621,7 @@ define("modules/crm/controllers/event-confirmation", ["exports", "controller"], 
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class EventConfirmationController extends _controller.default {
@@ -13650,11 +13650,11 @@ define("modules/crm/controllers/calendar", ["exports", "controller"], function (
   _controller = _interopRequireDefault(_controller);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -13674,7 +13674,7 @@ define("modules/crm/controllers/calendar", ["exports", "controller"], function (
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class CalendarController extends _controller.default {
@@ -13712,11 +13712,11 @@ define("modules/crm/controllers/activities", ["exports", "controller"], function
   _controller = _interopRequireDefault(_controller);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -13736,7 +13736,7 @@ define("modules/crm/controllers/activities", ["exports", "controller"], function
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class ActivitiesController extends _controller.default {
@@ -13797,11 +13797,11 @@ define("modules/crm/acl-portal/document", ["exports", "acl-portal"], function (_
   _aclPortal = _interopRequireDefault(_aclPortal);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -13821,7 +13821,7 @@ define("modules/crm/acl-portal/document", ["exports", "acl-portal"], function (_
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class DocumentAclPortal extends _aclPortal.default {
@@ -13850,11 +13850,11 @@ define("modules/crm/acl-portal/contact", ["exports", "acl-portal"], function (_e
   _aclPortal = _interopRequireDefault(_aclPortal);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -13874,7 +13874,7 @@ define("modules/crm/acl-portal/contact", ["exports", "acl-portal"], function (_e
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class ContactAclPortal extends _aclPortal.default {
@@ -13902,11 +13902,11 @@ define("modules/crm/acl-portal/account", ["exports", "acl-portal"], function (_e
   _aclPortal = _interopRequireDefault(_aclPortal);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -13926,7 +13926,7 @@ define("modules/crm/acl-portal/account", ["exports", "acl-portal"], function (_e
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class AccountAclPortal extends _aclPortal.default {
@@ -13954,11 +13954,11 @@ define("modules/crm/acl/mass-email", ["exports", "acl"], function (_exports, _ac
   _acl = _interopRequireDefault(_acl);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -13978,7 +13978,7 @@ define("modules/crm/acl/mass-email", ["exports", "acl"], function (_exports, _ac
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class MassEmailAcl extends _acl.default {
@@ -14014,11 +14014,11 @@ define("modules/crm/acl/campaign-tracking-url", ["exports", "acl"], function (_e
   _acl = _interopRequireDefault(_acl);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -14038,7 +14038,7 @@ define("modules/crm/acl/campaign-tracking-url", ["exports", "acl"], function (_e
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class CampaignTrackingUrlAcl extends _acl.default {
@@ -14068,11 +14068,11 @@ define("modules/crm/acl/call", ["exports", "modules/crm/acl/meeting"], function 
   _meeting = _interopRequireDefault(_meeting);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of ZeroCRM.
+   * This file is part of EspoCRM.
    *
-   * ZeroCRM – Open Source CRM application.
+   * EspoCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.ZeroCRM.com
+   * Website: https://www.EspoCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -14092,7 +14092,7 @@ define("modules/crm/acl/call", ["exports", "modules/crm/acl/meeting"], function 
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
    ************************************************************************/
 
   class CallAcl extends _meeting.default {}

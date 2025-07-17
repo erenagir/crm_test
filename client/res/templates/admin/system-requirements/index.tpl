@@ -97,7 +97,7 @@
         <div class="pull-right">
             <a
                 target="_blank"
-                href="https://docs.ZeroCRM.com/administration/server-configuration/"
+                href="https://docs.EspoCRM.com/administration/server-configuration/"
             ><strong>{{translate 'Configuration Instructions' scope='Admin'}}</strong></a>
         </div>
     </div>

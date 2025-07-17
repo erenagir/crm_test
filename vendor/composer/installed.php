@@ -1,6 +1,6 @@
 <?php return array(
     'root' => array(
-        'name' => 'ZeroCRM/ZeroCRM',
+        'name' => 'EspoCRM/EspoCRM',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
         'reference' => '4baab4dff4342ed1b194015407c8bc74b4cc9a7d',
@@ -187,7 +187,7 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'ZeroCRM/ZeroCRM' => array(
+        'EspoCRM/EspoCRM' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
             'reference' => '4baab4dff4342ed1b194015407c8bc74b4cc9a7d',

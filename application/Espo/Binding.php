@@ -1,10 +1,10 @@
 <?php
 /************************************************************************
- * This file is part of ZeroCRM.
+ * This file is part of EspoCRM.
  *
- * ZeroCRM – Open Source CRM application.
+ * EspoCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.ZeroCRM.com
+ * Website: https://www.EspoCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -24,7 +24,7 @@
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
 namespace Espo;
@@ -37,7 +37,7 @@ use Espo\Core\Binding\Key\NamedClassKey;
  * Default binding for the dependency injection framework. Custom binding should be set up in
  * `Espo\Modules\{ModuleName}\Binding` or `Espo\Custom\Binding`.
  *
- * @link https://docs.ZeroCRM.com/development/di/#binding.
+ * @link https://docs.EspoCRM.com/development/di/#binding.
  */
 class Binding implements BindingProcessor
 {

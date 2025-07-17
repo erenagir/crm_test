@@ -1,1 +1,1 @@
-Доступ до ZeroCRM
+Доступ до EspoCRM

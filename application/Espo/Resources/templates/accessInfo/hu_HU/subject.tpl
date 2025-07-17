@@ -1,1 +1,1 @@
-ZeroCRM felhasználói hozzáférési információ
+EspoCRM felhasználói hozzáférési információ
