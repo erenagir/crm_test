@@ -152,7 +152,7 @@ return [
   'maxEmailAccountCount' => 2,
   'followCreatedEntities' => false,
   'b2cMode' => false,
-  'theme' => 'Espo',
+  'theme' => 'Dark',
   'themeParams' => (object) [
     'navbar' => 'side'
   ],
@@ -326,8 +326,8 @@ return [
     0 => 'youtube.com',
     1 => 'google.com'
   ],
-  'cacheTimestamp' => 1752741068,
-  'microtime' => 1752741068.243677,
+  'cacheTimestamp' => 1752743871,
+  'microtime' => 1752743871.536764,
   'siteUrl' => 'https://crm.erdemvedilay.com.tr',
   'fullTextSearchMinLength' => 4,
   'appTimestamp' => 1751849406
