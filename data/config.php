@@ -326,8 +326,8 @@ return [
     0 => 'youtube.com',
     1 => 'google.com'
   ],
-  'cacheTimestamp' => 1751849507,
-  'microtime' => 1751849507.642432,
+  'cacheTimestamp' => 1752739675,
+  'microtime' => 1752739675.394531,
   'siteUrl' => 'https://crm.erdemvedilay.com.tr',
   'fullTextSearchMinLength' => 4,
   'appTimestamp' => 1751849406
