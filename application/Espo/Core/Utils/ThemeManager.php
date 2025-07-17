@@ -35,7 +35,7 @@ class ThemeManager
 {
     private string $defaultName = 'Espo';
 
-    private string $defaultLogoSrc = 'client/img/logo.svg';
+    private string $defaultLogoSrc = 'client/img/zerosoftlogo.svg';
 
     public function __construct(
         private Config $config,
