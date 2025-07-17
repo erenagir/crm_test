@@ -4,9 +4,9 @@ return [
     'host' => 'localhost',
     'port' => '',
     'charset' => NULL,
-    'dbname' => 'u111878875_CRM',
-    'user' => 'u111878875_adminate',
-    'password' => 'Zero671901*',
+    'dbname' => 'u111878875_Crm2',
+    'user' => 'u111878875_Crm2',
+    'password' => 'Zero123123.*',
     'platform' => 'Mysql'
   ],
   'smtpPassword' => NULL,
