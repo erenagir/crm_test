@@ -1,7 +1,7 @@
 {
     "stylesheet": "client/css/espo/espo.css",
     "stylesheetIframe": "client/css/espo/espo-iframe.css",
-    "logo": "client/img/zerosoftbluelogo.svg?v=123",
+    "logo": "client/img/zerosoftbluelogo.svg",
     "params": {
         "navbar": {
             "type": "enum",
