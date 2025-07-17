@@ -13,11 +13,11 @@ define("modules/crm/views/calendar/calendar", ["exports", "view", "moment", "ful
   function _interopRequireWildcard(e, r) { if (!r && e && e.__esModule) return e; if (null === e || "object" != typeof e && "function" != typeof e) return { default: e }; var t = _getRequireWildcardCache(r); if (t && t.has(e)) return t.get(e); var n = { __proto__: null }, a = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var u in e) if ("default" !== u && {}.hasOwnProperty.call(e, u)) { var i = a ? Object.getOwnPropertyDescriptor(e, u) : null; i && (i.get || i.set) ? Object.defineProperty(n, u, i) : n[u] = e[u]; } return n.default = e, t && t.set(e, n), n; }
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of EspoCRM.
+   * This file is part of ZeroCRM.
    *
-   * EspoCRM – Open Source CRM application.
+   * ZeroCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.espocrm.com
+   * Website: https://www.ZeroCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -37,7 +37,7 @@ define("modules/crm/views/calendar/calendar", ["exports", "view", "moment", "ful
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
    ************************************************************************/
 
   /** @module modules/crm/views/calendar/calendar */

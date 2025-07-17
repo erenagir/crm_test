@@ -1,1 +1,1 @@
-EspoCRM Informace k uživatelskému přístupu
+ZeroCRM Informace k uživatelskému přístupu

@@ -96,18 +96,18 @@
     "selectExtensionPackage": "Vybrat rozšiřující balíček",
     "extensionInstalled": "Rozšíření {name} {version} bylo nainstalováno.",
     "installExtension": "Rozšíření {name} {version} je připraveno k instalaci.",
-    "upgradeBackup": "Doporučujeme zálohovat soubory a data EspoCRM před upgradem.",
+    "upgradeBackup": "Doporučujeme zálohovat soubory a data ZeroCRM před upgradem.",
     "thousandSeparatorEqualsDecimalMark": "Oddělovač tisíců nemůže být stejný jako desetinný symbol.",
     "userHasNoEmailAddress": "Uživatel nemá emailovou adresu.",
     "uninstallConfirmation": "Opravdu odinstalovat vybrané rozšíření?",
-    "upgradeVersion": "EspoCRM bude upgradováno na verzi <strong>{version}</strong>. Toto může chvíli trvat.",
-    "upgradeDone": "EspoCRM bylo upgradováno na verzi <strong>{version}</strong>.",
-    "downloadUpgradePackage": "Stáhnout upgradovací balíčky na <a href=\"https://sourceforge.net/projects/espocrm/files/Upgrades/\">tomto odkaze</a>."
+    "upgradeVersion": "ZeroCRM bude upgradováno na verzi <strong>{version}</strong>. Toto může chvíli trvat.",
+    "upgradeDone": "ZeroCRM bylo upgradováno na verzi <strong>{version}</strong>.",
+    "downloadUpgradePackage": "Stáhnout upgradovací balíčky na <a href=\"https://sourceforge.net/projects/ZeroCRM/files/Upgrades/\">tomto odkaze</a>."
   },
   "descriptions": {
     "settings": "Systémová nastavení aplikace.",
     "scheduledJob": "Činnosti vykonávané CRONem.",
-    "upgrade": "Upgradovat EspoCRM.",
+    "upgrade": "Upgradovat ZeroCRM.",
     "clearCache": "Vyčistit veškerou cache.",
     "rebuild": "Přestavě backend a vyčistit cache.",
     "users": "Správa uživatelů.",

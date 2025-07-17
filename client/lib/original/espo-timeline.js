@@ -10,11 +10,11 @@ define("modules/crm/views/scheduler/scheduler", ["exports", "view", "vis-data", 
   _jquery = _interopRequireDefault(_jquery);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of EspoCRM.
+   * This file is part of ZeroCRM.
    *
-   * EspoCRM – Open Source CRM application.
+   * ZeroCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.espocrm.com
+   * Website: https://www.ZeroCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -34,7 +34,7 @@ define("modules/crm/views/scheduler/scheduler", ["exports", "view", "vis-data", 
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
    ************************************************************************/
 
   class SchedulerView extends _view.default {
@@ -472,11 +472,11 @@ define("modules/crm/views/calendar/timeline", ["exports", "view", "vis-data", "v
   _sharedOptions = _interopRequireDefault(_sharedOptions);
   function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
   /************************************************************************
-   * This file is part of EspoCRM.
+   * This file is part of ZeroCRM.
    *
-   * EspoCRM – Open Source CRM application.
+   * ZeroCRM – Open Source CRM application.
    * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
-   * Website: https://www.espocrm.com
+   * Website: https://www.ZeroCRM.com
    *
    * This program is free software: you can redistribute it and/or modify
    * it under the terms of the GNU Affero General Public License as published by
@@ -496,7 +496,7 @@ define("modules/crm/views/calendar/timeline", ["exports", "view", "vis-data", "v
    * Section 5 of the GNU Affero General Public License version 3.
    *
    * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
-   * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
+   * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
    ************************************************************************/
 
   /** @module modules/crm/views/calendar/timeline */

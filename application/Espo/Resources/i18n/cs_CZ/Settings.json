@@ -23,7 +23,7 @@
     "quickCreateList": "Rychlé odkazy",
     "authenticationMethod": "Autentizační metoda",
     "ldapTryUsernameSplit": "Zkuste rozdělit uživatelské jméno",
-    "ldapCreateEspoUser": "Vytvořit uživatele v EspoCRM",
+    "ldapCreateEspoUser": "Vytvořit uživatele v ZeroCRM",
     "ldapUserLoginFilter": "Filtr uživatelského přihlášení",
     "ldapAccountDomainNameShort": "Account Domain Name krátké",
     "ldapUsername": "Uživatelské jméno",

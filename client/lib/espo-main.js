@@ -1,4 +1,4 @@
-/*! espocrm 2025-06-24 */
+/*! ZeroCRM 2025-06-24 */
 define("di", ["exports"], function (e) {
   Object.defineProperty(e, "__esModule", { value: !0 });
   e.container = void 0;
@@ -116,7 +116,7 @@ define("view", ["exports", "bullbone"], function (e, t) {
       return this._helper.themeManager;
     }
     updatePageTitle() {
-      var e = this.getConfig().get("applicationName") || "EspoCRM";
+      var e = this.getConfig().get("applicationName") || "ZeroCRM";
       this.setPageTitle(e);
     }
     setPageTitle(e) {
@@ -22932,7 +22932,7 @@ define("layout-manager", ["exports", "bullbone"], function (e, t) {
   class i {
     constructor(e, t, i) {
       this.cache = e || null;
-      this.applicationId = t || "espocrm";
+      this.applicationId = t || "ZeroCRM";
       this.userId = i || null;
       this.data = {};
       this.ajax = Espo.Ajax;
@@ -32422,7 +32422,7 @@ define("controllers/base", ["exports", "controller", "views/base"], function (
       };
     }
     logout() {
-      var e = this.getConfig().get("applicationName") || "EspoCRM";
+      var e = this.getConfig().get("applicationName") || "ZeroCRM";
       $("head title").text(e);
       this.trigger("logout");
     }
@@ -33017,7 +33017,7 @@ define("app", [
   class _ {
     constructor(e, t) {
       e = e || {};
-      this.id = e.id || "espocrm";
+      this.id = e.id || "ZeroCRM";
       this.useCache = e.useCache || this.useCache;
       this.apiUrl = e.apiUrl || this.apiUrl;
       this.basePath = e.basePath || "";
@@ -37118,7 +37118,7 @@ define("views/site/master", [
       t = this.getView("footer");
       if (t) {
         var a = t.$el.html() || "";
-        if ((a.match(/espocrm/gi) || []).length < 2) {
+        if ((a.match(/ZeroCRM/gi) || []).length < 2) {
           a =
             "PHAgY2xhc3M9ImNyZWRpdCBzbWFsbCI+JmNvcHk7IDxhIGhyZWY9Imh0dHA6Ly93d3cuZXNwb2NybS5jb20iPkVzcG9DUk08L2E+PC9wPg==";
           let e;
@@ -37226,7 +37226,7 @@ define("views/site/header", ["exports", "view"], function (e, t) {
   var i;
   class s extends t.default {
     template = "site/header";
-    title = "EspoCRM";
+    title = "ZeroCRM";
     navbarView = "views/site/navbar";
     customViewPath = ["clientDefs", "App", "navbarView"];
     data = { title: this.title };

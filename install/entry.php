@@ -1,10 +1,10 @@
 <?php
 /************************************************************************
- * This file is part of EspoCRM.
+ * This file is part of ZeroCRM.
  *
- * EspoCRM – Open Source CRM application.
+ * ZeroCRM – Open Source CRM application.
  * Copyright (C) 2014-2025 Yurii Kuznietsov, Taras Machyshyn, Oleksii Avramenko
- * Website: https://www.espocrm.com
+ * Website: https://www.ZeroCRM.com
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -24,7 +24,7 @@
  * Section 5 of the GNU Affero General Public License version 3.
  *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
+ * these Appropriate Legal Notices must retain the display of the "ZeroCRM" word.
  ************************************************************************/
 
 use Espo\Core\Utils\Client\LoaderParamsProvider;
@@ -211,7 +211,7 @@ $smarty->assign('logoSrc', $installer->getLogoSrc($theme));
 $loaderParamsProvider = $installer->getInjectableFactory()->create(LoaderParamsProvider::class);
 
 if (!empty($actionFile) && file_exists('install/core/tpl/' . $tplName)) {
-    /* check if EspoCRM is built */
+    /* check if ZeroCRM is built */
     $isBuilt = file_exists('client/lib/espo.js');
 
     $smarty->assign('isBuilt', $isBuilt);

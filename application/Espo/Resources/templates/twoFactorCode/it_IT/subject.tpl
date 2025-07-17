@@ -1,1 +1,1 @@
-EspoCRM codice di autenticazione
+ZeroCRM codice di autenticazione
