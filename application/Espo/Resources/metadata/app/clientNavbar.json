@@ -17,12 +17,6 @@
             "class": "dropdown notifications-badge-container",
             "order": 15,
             "disabled": false
-        },
-         "notificationBadge1": {
-            "view": "views/notification/badge",
-            "class": "dropdown notifications-badge-container",
-            "order": 15,
-            "disabled": false
         }
     },
     "menuItems": {
@@ -36,13 +30,7 @@
                     "isAdminOnly": true
                 }
             ]
-        },
-        "userProfile": {
-            "order": 1,
-            "groupIndex": 1,
-            "link": "#UserProfile",
-            "labelTranslation": "Global.labels.User Profile"
-        },
+        },  
         "preferences": {
             "order": 1,
             "groupIndex": 1,
