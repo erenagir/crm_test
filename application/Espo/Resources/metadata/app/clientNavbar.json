@@ -17,6 +17,12 @@
             "class": "dropdown notifications-badge-container",
             "order": 15,
             "disabled": false
+        },
+         "notificationBadge1": {
+            "view": "views/notification/badge",
+            "class": "dropdown notifications-badge-container",
+            "order": 15,
+            "disabled": false
         }
     },
     "menuItems": {
