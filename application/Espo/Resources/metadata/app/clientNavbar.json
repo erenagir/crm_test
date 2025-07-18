@@ -31,6 +31,12 @@
                 }
             ]
         },
+        "userProfile": {
+            "order": 1,
+            "groupIndex": 1,
+            "link": "#UserProfile",
+            "labelTranslation": "Global.labels.User Profile"
+        },
         "preferences": {
             "order": 1,
             "groupIndex": 1,
